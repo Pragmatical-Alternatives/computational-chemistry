@@ -1,3 +1,3 @@
 main() {
-  cout << "Starts at quantum, goes up to natural at a point."
+  cout << "Consider the ratios of quantum, molecular, etc. and apply computation based on specifically-ranged cases."
 }
